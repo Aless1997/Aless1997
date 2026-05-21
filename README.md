@@ -53,8 +53,6 @@ Designing and building enterprise-grade infrastructure where cryptographic corre
 |---|---|---|
 | **FortySeal** | Secure Comms · Blockchain · PQC | 🟢 Active — Core Architecture |
 | **PrivateGPT SaaS** | Local LLM · Privacy-first AI | 🟡 Building |
-| **NFC Payments & Loyalty** | Fintech · Local Commerce | 🟡 Building |
-| **Truffle Nursery (Veneto)** | AgriTech · B2B Supply Chain | 🔵 Validated · Planning |
 
 ---
 
