@@ -27,7 +27,7 @@ I'm a entrepreneur and full-stack builder operating at the intersection of **cry
 
 My edge: I combine deep technical execution with strategic product thinking, using AI as a force multiplier to operate at a scale that traditionally requires an entire organization.
 
-Currently: **Founder @ FortySeal** — a secure messaging and file transfer platform built on private blockchain infrastructure with a post-quantum cryptography stack.
+Currently: **Co-Founder @ FortySeal** — a secure messaging and file transfer platform built on private blockchain infrastructure with a post-quantum cryptography stack.
 
 ---
 
