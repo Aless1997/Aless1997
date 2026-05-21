@@ -23,7 +23,7 @@
 
 ## `> whoami`
 
-I'm a serial entrepreneur and full-stack builder operating at the intersection of **cryptography**, **AI**, and **distributed systems**. I don't wait for teams — I architect, build, and ship.
+I'm a entrepreneur and full-stack builder operating at the intersection of **cryptography**, **AI**, and **distributed systems**. I don't wait for teams — I architect, build, and ship.
 
 My edge: I combine deep technical execution with strategic product thinking, using AI as a force multiplier to operate at a scale that traditionally requires an entire organization.
 
